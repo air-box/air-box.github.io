@@ -1,6 +1,6 @@
 # Learn more about AirBox Keyless
 - [Website](https://www.air-box.io)
-- [Story](https://tinyurl.com/1s3ifses)
+- [Story](https://tinyurl.com/9eafcnvs)
 
 # AirBox Keyless Demo 
 
